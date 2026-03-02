@@ -200,7 +200,3 @@ This project showcases:
 ✔ Business-oriented thinking
 ✔ Dashboard design expertise
 ✔ Data storytelling & presentation skills
-
-
-If you'd like, I can also create a **more technical GitHub-style version** or a **shorter one-page recruiter-focused version**.
-
